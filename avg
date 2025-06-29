@@ -1,0 +1,12 @@
+# Program to find average of n numbers
+# Avg = sum of n numbers /  n
+
+a = 3
+b = 4
+c = 5
+sum = a+b+c
+print(sum/3)
+e = 9
+f = 7
+sum2 = e+f
+print(sum2/3)
